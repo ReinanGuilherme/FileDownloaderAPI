@@ -1,6 +1,6 @@
 # FileDownloaderAPI
 
-O FileDownloaderAPI é uma API desenvolvida em GO que permite o download de diferentes tipos de arquivos como EXCEL, TXT, PDF e CSV.
+A FileDownloaderAPI é uma API desenvolvida em GO que permite o download de diferentes tipos de arquivos como EXCEL, TXT, PDF e CSV.
 
 ## 🛠️ Construído com
 
